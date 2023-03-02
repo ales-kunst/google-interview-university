@@ -464,7 +464,7 @@ through my notes and making flashcards so I could review.
 
 Read please so you won't make my mistakes:
 
-[Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)
+[Retaining Computer Science Knowledge](https://web.archive.org/web/20170308043107/https://googleyasheck.com/retaining-computer-science-knowledge/)
 
 ### 2. Use Flashcards
 
